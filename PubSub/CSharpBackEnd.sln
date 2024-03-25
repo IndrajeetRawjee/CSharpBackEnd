@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.34601.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PubSub", "PubSub.csproj", "{234F5FEA-6319-4DDE-AE55-D5A988CDF057}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PubSubTrain", "PubSubTrain.csproj", "{234F5FEA-6319-4DDE-AE55-D5A988CDF057}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionMethods", "..\ExtensionMethods\ExtensionMethods.csproj", "{A08113CF-F8C6-4BA5-ACC2-22ED9DF2E0DF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionMethodsTrain", "..\ExtensionMethods\ExtensionMethodsTrain.csproj", "{A08113CF-F8C6-4BA5-ACC2-22ED9DF2E0DF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqTraining", "..\LinqTraining\LinqTraining.csproj", "{3EA3CD19-A9A6-42E8-A70F-46BA9F525A61}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqTrain", "..\LinqTraining\LinqTrain.csproj", "{3EA3CD19-A9A6-42E8-A70F-46BA9F525A61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullableTypesTrain", "..\NullableTypesTrain\NullableTypesTrain.csproj", "{424F4012-18D6-465D-9BB8-E20B1A8BEBE5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{3EA3CD19-A9A6-42E8-A70F-46BA9F525A61}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3EA3CD19-A9A6-42E8-A70F-46BA9F525A61}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3EA3CD19-A9A6-42E8-A70F-46BA9F525A61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{424F4012-18D6-465D-9BB8-E20B1A8BEBE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{424F4012-18D6-465D-9BB8-E20B1A8BEBE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{424F4012-18D6-465D-9BB8-E20B1A8BEBE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{424F4012-18D6-465D-9BB8-E20B1A8BEBE5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
