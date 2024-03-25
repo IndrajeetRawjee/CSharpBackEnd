@@ -1,0 +1,13 @@
+C:\Users\uaindr\Projects\04\LinqTraining\bin\Debug\netcoreapp3.1\LinqTrain.exe
+C:\Users\uaindr\Projects\04\LinqTraining\bin\Debug\netcoreapp3.1\LinqTrain.deps.json
+C:\Users\uaindr\Projects\04\LinqTraining\bin\Debug\netcoreapp3.1\LinqTrain.runtimeconfig.json
+C:\Users\uaindr\Projects\04\LinqTraining\bin\Debug\netcoreapp3.1\LinqTrain.runtimeconfig.dev.json
+C:\Users\uaindr\Projects\04\LinqTraining\bin\Debug\netcoreapp3.1\LinqTrain.dll
+C:\Users\uaindr\Projects\04\LinqTraining\bin\Debug\netcoreapp3.1\LinqTrain.pdb
+C:\Users\uaindr\Projects\04\LinqTraining\obj\Debug\netcoreapp3.1\LinqTrain.csproj.AssemblyReference.cache
+C:\Users\uaindr\Projects\04\LinqTraining\obj\Debug\netcoreapp3.1\LinqTrain.AssemblyInfoInputs.cache
+C:\Users\uaindr\Projects\04\LinqTraining\obj\Debug\netcoreapp3.1\LinqTrain.AssemblyInfo.cs
+C:\Users\uaindr\Projects\04\LinqTraining\obj\Debug\netcoreapp3.1\LinqTrain.csproj.CoreCompileInputs.cache
+C:\Users\uaindr\Projects\04\LinqTraining\obj\Debug\netcoreapp3.1\LinqTrain.dll
+C:\Users\uaindr\Projects\04\LinqTraining\obj\Debug\netcoreapp3.1\LinqTrain.pdb
+C:\Users\uaindr\Projects\04\LinqTraining\obj\Debug\netcoreapp3.1\LinqTrain.genruntimeconfig.cache
