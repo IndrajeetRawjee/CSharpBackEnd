@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqTrain", "..\LinqTrainin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullableTypesTrain", "..\NullableTypesTrain\NullableTypesTrain.csproj", "{424F4012-18D6-465D-9BB8-E20B1A8BEBE5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicTrain", "..\DynamicTrain\DynamicTrain.csproj", "{03317209-B969-430B-A2B3-37DDDA7FCB1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionHandling", "..\ExceptionHandling\ExceptionHandling.csproj", "{38FEDCC5-0764-43C0-ADA5-40F5922211EA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{424F4012-18D6-465D-9BB8-E20B1A8BEBE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{424F4012-18D6-465D-9BB8-E20B1A8BEBE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{424F4012-18D6-465D-9BB8-E20B1A8BEBE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03317209-B969-430B-A2B3-37DDDA7FCB1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03317209-B969-430B-A2B3-37DDDA7FCB1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03317209-B969-430B-A2B3-37DDDA7FCB1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03317209-B969-430B-A2B3-37DDDA7FCB1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38FEDCC5-0764-43C0-ADA5-40F5922211EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38FEDCC5-0764-43C0-ADA5-40F5922211EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38FEDCC5-0764-43C0-ADA5-40F5922211EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38FEDCC5-0764-43C0-ADA5-40F5922211EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
