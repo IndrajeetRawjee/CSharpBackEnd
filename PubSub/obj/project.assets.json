@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\uaindr\\Projects\\04\\PubSub\\PubSub.csproj",
-      "projectName": "PubSub",
-      "projectPath": "C:\\Users\\uaindr\\Projects\\04\\PubSub\\PubSub.csproj",
+      "projectUniqueName": "C:\\Users\\uaindr\\Projects\\04\\PubSub\\PubSubTrain.csproj",
+      "projectName": "PubSubTrain",
+      "projectPath": "C:\\Users\\uaindr\\Projects\\04\\PubSub\\PubSubTrain.csproj",
       "packagesPath": "C:\\Users\\uaindr\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\uaindr\\Projects\\04\\PubSub\\obj\\",
       "projectStyle": "PackageReference",

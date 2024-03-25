@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\uaindr\\Projects\\04\\ExtensionMethods\\ExtensionMethodsTrain.csproj",
-      "projectName": "ExtensionMethodsTrain",
-      "projectPath": "C:\\Users\\uaindr\\Projects\\04\\ExtensionMethods\\ExtensionMethodsTrain.csproj",
+      "projectUniqueName": "C:\\Users\\uaindr\\Projects\\04\\LinqTraining\\LinqTrain.csproj",
+      "projectName": "LinqTrain",
+      "projectPath": "C:\\Users\\uaindr\\Projects\\04\\LinqTraining\\LinqTrain.csproj",
       "packagesPath": "C:\\Users\\uaindr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\uaindr\\Projects\\04\\ExtensionMethods\\obj\\",
+      "outputPath": "C:\\Users\\uaindr\\Projects\\04\\LinqTraining\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\uaindr\\AppData\\Roaming\\NuGet\\NuGet.Config",
