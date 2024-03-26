@@ -1,0 +1,13 @@
+C:\Users\uaindr\Projects\04\AsyncTrain\bin\Debug\netcoreapp3.1\AsyncTrain.exe
+C:\Users\uaindr\Projects\04\AsyncTrain\bin\Debug\netcoreapp3.1\AsyncTrain.deps.json
+C:\Users\uaindr\Projects\04\AsyncTrain\bin\Debug\netcoreapp3.1\AsyncTrain.runtimeconfig.json
+C:\Users\uaindr\Projects\04\AsyncTrain\bin\Debug\netcoreapp3.1\AsyncTrain.runtimeconfig.dev.json
+C:\Users\uaindr\Projects\04\AsyncTrain\bin\Debug\netcoreapp3.1\AsyncTrain.dll
+C:\Users\uaindr\Projects\04\AsyncTrain\bin\Debug\netcoreapp3.1\AsyncTrain.pdb
+C:\Users\uaindr\Projects\04\AsyncTrain\obj\Debug\netcoreapp3.1\AsyncTrain.csproj.AssemblyReference.cache
+C:\Users\uaindr\Projects\04\AsyncTrain\obj\Debug\netcoreapp3.1\AsyncTrain.AssemblyInfoInputs.cache
+C:\Users\uaindr\Projects\04\AsyncTrain\obj\Debug\netcoreapp3.1\AsyncTrain.AssemblyInfo.cs
+C:\Users\uaindr\Projects\04\AsyncTrain\obj\Debug\netcoreapp3.1\AsyncTrain.csproj.CoreCompileInputs.cache
+C:\Users\uaindr\Projects\04\AsyncTrain\obj\Debug\netcoreapp3.1\AsyncTrain.dll
+C:\Users\uaindr\Projects\04\AsyncTrain\obj\Debug\netcoreapp3.1\AsyncTrain.pdb
+C:\Users\uaindr\Projects\04\AsyncTrain\obj\Debug\netcoreapp3.1\AsyncTrain.genruntimeconfig.cache
